@@ -18,8 +18,4 @@ An interactive, object-oriented Java console application developed as an indepen
 
 ---
 
-## 🚀 Execution & Testing Guide
-1. Launch **Apache NetBeans IDE**.
-2. Go to **File** -> **Open Project** and select this directory workspace.
-3. Open `BankingConsoleApp.java`, right-click inside the blank canvas editing area, and select **Run File** (or press **Shift + F6**).
-4. Follow the interactive terminal prompts to establish account data parameters, perform test transactions, or gracefully exit using option `4`.
+
